@@ -13,34 +13,13 @@ Inspired by AI mechanics from:
 - [Unity AI & Pathfinding](https://www.youtube.com/results?search_query=unity+ai+pathfinding)  
 - [Finite State Machine (FSM) AI](https://www.youtube.com/watch?v=2R6eZsWlUuU)  
 
-## TODO 
-###  AI Navigation & Pathfinding  
-- [ ] **A* Pathfinding** – Efficient path calculation for NPC movement  
-- [ ] **NavMesh Navigation** – Dynamic pathfinding using Unity’s NavMesh  
-- [ ] **Steering Behaviors** – Seek, flee, wander, and pursue  
-- [ ] **Crowd Simulation** – AI movement in groups with avoidance  
+### Features
 
-### Decision-Making AI  
-- [ ] **Finite State Machine (FSM)** – AI state transitions (Idle, Patrol, Chase, Attack)  
-- [ ] **Behavior Trees** – Complex AI behaviors with hierarchical decision-making  
-- [ ] **Utility-Based AI** – AI selects the best action based on scores  
-- [ ] **GOAP (Goal-Oriented Action Planning)** – AI plans multiple steps ahead  
+	- Modular Weapon Structure implemented using Data Assets for easy configuration and scalability
+	- Reloading, Ammo Management, and Fire Mode Handling (e.g., single, burst, auto)
+	- Hitscan and Projectile Firing Logic for diverse weapon behavior
+	- Weapon Switching with physics-based equip and drop mechanics
+	- UI Feedback including crosshair, ammo count display, and hit markers
+	- Designer-Friendly Architecture built for flexibility and easy expansion
 
-### Combat AI  
-- [ ] **Enemy Detection & Awareness** – Sight, sound, and stealth mechanics  
-- [ ] **Cover & Shooting AI** – AI hides, peeks, and shoots from cover  
-- [ ] **Squad AI** – AI coordinates in groups (flanking, assisting allies)  
-- [ ] **Ranged vs. Melee AI** – AI adapts combat based on weapon type  
-
-### Vehicle & Racing AI  
-- [ ] **Waypoint Navigation** – AI follows race tracks dynamically  
-- [ ] **Obstacle Avoidance** – AI adjusts speed and direction in real-time  
-- [ ] **Overtaking Logic** – AI calculates the best time to pass opponents  
-
-### General AI Features  
-- [ ] **AI Perception System** – Vision cones, noise detection, and reaction times  
-- [ ] **AI Debugging Tools** – Visualize paths, decisions, and states in real-time  
-- [ ] **Optimization** – AI performance tuning for large-scale NPCs  
-
-
- **Work in Progress!**
+ ### Follow Development here : [Link](https://www.youtube.com/playlist?list=PLuB7iMA25lu-h2bbjuA8XGDXH3ydaKaBX)
